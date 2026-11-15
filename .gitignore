@@ -1,0 +1,12 @@
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# login WhatsApp 
+wa_profile/
+
+# hasil kerja agent dan file debug
+sandbox/
+
